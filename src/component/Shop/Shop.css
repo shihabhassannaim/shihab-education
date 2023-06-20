@@ -1,0 +1,27 @@
+.shop-main{
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    color: purple ;
+    display: flex;
+}
+.course-name{
+    width: 50%;
+    height: 200px;
+    border-right: 2px solid plum;
+    color: brown;
+    border-radius: 15px;
+}
+.course-details{
+    width: 40%;
+    margin-left: 20px;
+    border-radius: 5px;
+    line-height: 5px;
+}
+button{
+    background-color: purple;
+    color: aqua;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+}

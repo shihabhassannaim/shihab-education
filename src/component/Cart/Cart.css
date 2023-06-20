@@ -1,0 +1,9 @@
+.number-course p {
+    display: flex;
+}
+.number-course{
+    line-height: -10px;
+    margin-top: px;
+    border-top: 2px solid gray;
+    height: 120px;
+}
